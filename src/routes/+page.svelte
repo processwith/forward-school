@@ -18,11 +18,11 @@
         <div class="flex items-center justify-center text-center px-6" style="height:65vh;">
             <div>
                 <h1 class="text-black font-medium leading-tight text-4xl md:text-6xl">
-                    Earn your web3 degree.
+                    Earn your <br>web3 degree.
                 </h1>
 
                 <div class="text-black mt-10 mb-11 text-xl md:text-2xl">
-                    Learn the skill that matter  in a fast moving world. Build projects, meet others, and get certified.
+                    Learn the skill that matter  in a fast moving world. <br>Build projects, get certified, join the ROOM3.
                 </div>
 
                 <div class="space-y-56">
