@@ -22,7 +22,7 @@
                 </h1>
 
                 <div class="text-black mt-10 mb-11 text-xl md:text-2xl">
-                    Learn the skill that matter  in a fast moving world.
+                    Learn the skill that matter  in a fast moving world. Build projects, meet others, and get certified.
                 </div>
 
                 <div class="space-y-56">
@@ -35,7 +35,7 @@
 
 <div class="text-center sm:px-6 bg-white mb-16 bg-white">
     <h2 class="font-bold mb-8">
-        Top web3 companies are hiring by ASPIRING Developers from Africa.
+        Top companies are hiring ASPIRING web3 Developers from Africa.
     </h2>
     <div>
         <div class="flex items-center justify-center">
@@ -48,9 +48,9 @@
     <div class="container mx-auto">
         <div class="md:columns-2 md:gap-4 md:flex md:items-center md:justify-center h-96 md:w-2/3 mx-auto text-center">
             <div class="md:w-1/2 md:p-8 mb-8 px-4">
-                <h2 class="mb-8 font-bold text-2xl md:text-4xl">Creating the next Generation of Tech talents</h2>
+                <h2 class="mb-8 font-bold text-2xl md:text-4xl">Be in Web3</h2>
                 <div class="text-lg">
-                Forward academy is a revolutionary web3 school that will equip anyone aspiring to become a certified web3 engineer in a short time.
+                Forward School is a revolutionary web3 school that will equip anyone aspiring to become a certified web3 engineer in a short time.
                 </div>
             </div>
             <div class="md:w-1/2">
@@ -68,7 +68,7 @@
             <div class="md:w-1/2 md:p-8 mb-8">
                 <h2 class="mb-8 font-bold text-2xl md:text-4xl">Code stars just like you</h2>
                 <div class="text-lg">
-                    Read real use of people like you who learnt how to code and are now making impact in the tech industry.
+                    Learn from people like you who are now killing it in the web3 space.
                 </div>
             </div>
             <div class="md:w-1/2">
