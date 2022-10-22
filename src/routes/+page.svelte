@@ -25,9 +25,10 @@
                     Learn the skill that matter  in a fast moving world. <br>Build projects, get certified, join the ROOM3.
                 </div>
 
-                <div class="space-y-56">
+                <div class="space-y-56 mb-4">
                     <a href="https://forms.gle/No746TE2veyR7oL88" class="btn !bg-ternary-500 btn-lg !text-white !px-11 !rounded-full !no-underline">Get Early Access</a>
                 </div>
+                <span>Next class begins 9th Jan 2023. Limited spot available!</span>
             </div>
         </div>
     </div>
