@@ -15,26 +15,26 @@
             </svelte:fragment>
         </AppBar>
 
-        <div class="flex items-center justify-center text-center px-6" style="height:65vh;">
+        <div class="flex items-center justify-center text-center px-6" style="height:75vh;">
             <div>
                 <h1 class="text-black font-medium leading-tight text-4xl md:text-6xl">
                     Earn your <br>web3 degree.
                 </h1>
 
-                <div class="text-black mt-10 mb-11 text-xl md:text-2xl">
-                    Learn the skill that matter  in a fast moving world. <br>Build projects, get certified, join the ROOM3.
+                <div class="text-black mt-10 mb-11 text-xl md:text-2xl md:w-1/2 md:mx-auto">
+                    Learn the new skill that matter in a fast moving world. Build projects, become certified, and get access to opportunities.
                 </div>
 
-                <div class="space-y-56 mb-4">
-                    <a href="https://forms.gle/No746TE2veyR7oL88" class="btn !bg-ternary-500 btn-lg !text-white !px-11 !rounded-full !no-underline">Get Early Access</a>
+                <div class="space-y-56 mb-6">
+                    <a href="https://forms.gle/No746TE2veyR7oL88" class="btn !bg-ternary-500 btn-lg !text-white !px-11 !rounded-full !no-underline">Apply For Early Access</a>
                 </div>
-                <span>Next class begins 9th Jan 2023. Limited spot available!</span>
+                <strong>Next Cohort begins 9th Jan 2023. Limited spot available!</strong>
             </div>
         </div>
     </div>
 </header>
 
-<div class="text-center sm:px-6 bg-white mb-16 bg-white">
+<!-- <div class="text-center sm:px-6 bg-white mb-16 bg-white">
     <h2 class="font-bold mb-8">
         Top companies are hiring ASPIRING web3 Developers from Africa.
     </h2>
@@ -81,16 +81,9 @@
     </div>
 </div>
 
-<!-- <div class="bg-light">
-    <div class="container mx-auto px-4">
-        <div class="bg-white">
-        </div>
-    </div>
-</div> -->
-
 <div class="text-center sm:px-6 mb-8 pt-16">
     <div class="text-lg font-bold">
         &copy; {year} Forward School Africa
     </div>
-</div>
+</div> -->
                 
